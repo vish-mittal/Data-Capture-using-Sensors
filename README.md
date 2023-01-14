@@ -21,3 +21,14 @@ As a data scientist/analyst, you are required to collect sensor data from a grou
 Folder Description:
 ------------------
 Data => This folder contains the 12 csv files that are to be used in the R code.
+(additional) Output => contains the graphs (i.e. plots) for question 10 and question 13 in pdf format.
+
+------------------
+Files Description:
+------------------
+Data_Visualisation.R => R code file for running the data visualisations.
+
+------
+Notes:
+------
+Please keep the R script (code) and the Data folder in the same folder.
