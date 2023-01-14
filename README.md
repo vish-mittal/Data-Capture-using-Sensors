@@ -16,3 +16,8 @@ As a data scientist/analyst, you are required to collect sensor data from a grou
   2. Sitting while working at a computer (act2). The participant will be typing and using the mouse in this task. Open a word document and type a few of lines for 30 seconds (s). For example, type your name and describe the reasons why you are studying a Master’s degree. After the activity is finished, close the word document and do not save the file.
   3. Standing and look around (act3). The participant will stand up from a sitting position and will remain in standing position while looking to the right, front, and left (repeatedly).
   4. Standing and walking on the spot (act4). The participant will stand up from a sitting position and will simulate walking on the same place. Orientation of axes of sensitivity and polarity of rotation.
+
+------------------
+Folder Description:
+------------------
+Data => This folder contains the 12 csv files that are to be used in the R code.
